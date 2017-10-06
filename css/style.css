@@ -1,0 +1,27 @@
+/* login */
+body{
+    margin:0px;
+    padding:0px;
+
+    text-align:center;
+}
+
+
+.header{
+    border-bottom:1px solid #eee;
+    padding:10px 0px;
+    width:100%;
+    text-align:center;
+}
+
+.header a{
+    color:#333;
+    text-decoration: none;
+}
+
+/* Product op de homepagina */
+
+.nav>li>a{
+    display: inline-block;
+}
+/* product page */
